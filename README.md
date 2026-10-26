@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/avatar.png" width="140" alt="Vincent Fox" />
+  <img src="assets/avatar.png" width="140" alt="Vincent Fox Vibe-Junior" />
   <h1>Vincent&nbsp;Fox</h1>
   <p><b>agent tooling · self-hosted infrastructure · full-stack</b><br/>
   <sub>TypeScript · Python · Kotlin</sub></p>
