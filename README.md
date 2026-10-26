@@ -29,10 +29,10 @@ $ tail -n 2 /var/log/focus.log
 
 | project | what it is |
 |---|---|
-| **OMP Pocket** <sub>`private`</sub> | Remote for an [omp](https://www.npmjs.com/package/oh-my-pi) agent fleet from a phone. React PWA + Bun gateway (session registry, attachments, search, push, autonomous tasks); E2E collab relay over AES-256-GCM; PTY pane runtime with screen emulation and restore-after-restart; update engine that verifies SHA-256, installs atomically and rolls back on its own, with a chaos suite over the failure paths. ~52k lines of TypeScript, 54 test files. |
+| **OMP Pocket** <sub>`private`</sub> | Remote for an [omp](https://www.npmjs.com/package/oh-my-pi) agent fleet from a phone. React PWA + Bun gateway (session registry, attachments, search, push, autonomous tasks); E2E collab relay over AES-256-GCM; PTY pane runtime with screen emulation and restore-after-restart; update engine that verifies SHA-256, installs atomically and rolls back on its own, with a chaos suite over the failure paths. 42k lines of TypeScript (52k with styles), 30 test files. |
 | **my-cinema** <sub>`private`</sub> | Android TV client in Kotlin — modular Gradle (core / feature / app), own design layer, benchmarks before feature work. |
-| **catalogue audit** <sub>`private`</sub> | Python: merchant YML feed and landing pages checked for SEO markup (title, h1, canonical, JSON-LD), duplicate URLs, price, stock and vendor integrity. |
-| **homelab** | Debian VPS + mini-PC: nginx edge with SNI routing, systemd units, WireGuard/ZeroTier mesh, self-hosted RustDesk, llama.cpp serving local models to the agents. |
+| **catalogue feed** <sub>`private`</sub> | Python: a 2,161-item catalogue crawled, filtered and assembled into a strict YML feed for Yandex Direct — price, stock, category, and at least four white-background photos per item — plus a selection report naming the reason every dropped item fell out. |
+| **homelab** | Debian VPS + Ubuntu mini-PC: nginx edge with SNI routing, systemd units, WireGuard/ZeroTier mesh, self-hosted RustDesk, llama.cpp serving local models to the agents. |
 
 ## Stack
 
