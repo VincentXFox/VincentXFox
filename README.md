@@ -11,6 +11,8 @@
   <sub><b>English</b> · <a href="README.ru.md">Русский</a></sub>
 </div>
 
+**About** — junior vibe-coder: I understand how a program is put together, reason about it logically, and can wire a pipeline end to end. The big PC at home (RTX 3070 + llama.cpp) runs the local model I write book text with.
+
 **Now** — building [OMP Pocket](https://vincentxfox.github.io/), an agent remote for the phone. Everything it runs on, I host myself: two servers, a mini-PC and a local model.
 
 ### Selected work
