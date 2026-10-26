@@ -23,7 +23,7 @@
 | **my-cinema** <sub>private</sub> | Android TV client in Kotlin — modular Gradle, own design system. |
 | **Catalogue feed** <sub>private</sub> | Python pipeline: a 2,161-item catalogue becomes a strict YML feed for Yandex Direct, plus a report on why each rejected item fell out. |
 | **Homelab** | Debian VPS + Ubuntu mini-PC: nginx edge, systemd units, WireGuard and ZeroTier, llama.cpp serving local models to the agents. |
-| **Book** <sub>in progress</sub> | Text drafted with the local model on the big PC (RTX 3070 + llama.cpp); the project runs in Codex. |
+| **Book — BOS** <sub>in progress</sub> | *Business Operation System*: a practical guide to running a business on facts instead of gut feeling. Text drafted with the local model on the big PC (RTX 3070 + llama.cpp), the project runs in Codex. |
 
 ### Stack
 
