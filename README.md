@@ -3,6 +3,7 @@
   <h1>Vincent&nbsp;Fox</h1>
   <p><b>agent tooling · self-hosted infrastructure · full-stack</b><br/>
   <sub>TypeScript · Python · Kotlin</sub></p>
+  <sub><b>English</b> · <a href="README.ru.md">Русский</a></sub>
 </div>
 
 ```console
