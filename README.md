@@ -19,7 +19,7 @@
 
 | project | what it is |
 |---|---|
-| **OMP Pocket** <sub>private</sub> | Agent remote for the phone: React PWA, Bun gateway, E2E relay, terminal panes, updates that roll back on their own. 42k lines of TypeScript, 30 test files. |
+| [**OMP Pocket**](https://github.com/VincentXFox/OMP-MOBILE) <sub>open source</sub> | Agent remote for the phone: React PWA, Bun gateway, E2E relay, terminal panes, updates that roll back on their own. 42k lines of TypeScript, 30 test files. |
 | **my-cinema** <sub>private</sub> | Android TV client in Kotlin — modular Gradle, own design system. |
 | **Catalogue feed** <sub>private</sub> | Python pipeline: a 2,161-item catalogue becomes a strict YML feed for Yandex Direct, plus a report on why each rejected item fell out. |
 | **Homelab** | Debian VPS + Ubuntu mini-PC: nginx edge, systemd units, WireGuard and ZeroTier, llama.cpp serving local models to the agents. |
