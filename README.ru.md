@@ -8,7 +8,7 @@
     <a href="https://vincentxfox.github.io/ru.html">Сайт</a> ·
     <a href="https://github.com/VincentXFox">GitHub</a>
   </p>
-  <sub><a href="README.md">English</a> · <b>Русский</b></sub>
+  <sub>Ставрополь · <a href="README.md">English</a> · <b>Русский</b></sub>
 </div>
 
 **О себе** — джун-вайбкодер: понимаю, как устроена программа, разбираю её логически и умею собрать пайплайн от начала до конца.

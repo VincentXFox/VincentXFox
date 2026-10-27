@@ -8,7 +8,7 @@
     <a href="https://vincentxfox.github.io/">Site</a> ·
     <a href="https://github.com/VincentXFox">GitHub</a>
   </p>
-  <sub><b>English</b> · <a href="README.ru.md">Русский</a></sub>
+  <sub>Stavropol · <b>English</b> · <a href="README.ru.md">Русский</a></sub>
 </div>
 
 **About** — junior vibe-coder: I understand how a program is put together, reason about it logically, and can wire a pipeline end to end.
